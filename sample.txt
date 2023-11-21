@@ -1,0 +1,4 @@
+Hello
+It's a test file
+I aM playing with MMap
+MMap can Map this file into MeMory space
